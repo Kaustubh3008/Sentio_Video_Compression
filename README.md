@@ -1,8 +1,9 @@
 # Smart Behavioral Video Compression
-**Sentio Mind · POC Assignment · Project 2**
+
 
 GitHub: https://github.com/Sentiodirector/Assignement_Video_compression.git
-Branch: Sandeep_Jha_230910
+
+
 
 ---
 ## 🚀 Execution Results & Highlights
